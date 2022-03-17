@@ -21,6 +21,7 @@ For more click help....</b>"""
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a>
 
-
 ⭕️<b>Source Code :</b> 👉 <a href='https://github.com/Noone927/Image-Editor'>Click Here</a>"""
-     SOURCE_CODE = """</b> <a href='https://github.com/Noone927/Image-Editor'></a>"""
+     SOURCE_CODE_MSG = """</b> <a href='https://github.com/Noone927/Image-Editor'></a>"""
+
+
